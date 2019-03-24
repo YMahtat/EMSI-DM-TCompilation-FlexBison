@@ -1,0 +1,6 @@
+ENTIER AB1, AB2, AB3, AB4;
+REEL reel1, reel2;
+AB1=22; AB2=33;
+AB3=AB1+AB2;
+reel1=100.34E-2;
+$ 
